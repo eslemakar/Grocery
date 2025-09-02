@@ -35,11 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # GIF
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>URL</key>
-	<string>https://s3.ezgif.com/tmp/ezgif-3dfa2453c94736.gif</string>
-</dict>
-</plist>
+![ScreenRecording2025-09-02at21 25 36-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4b5b3857-1059-41f2-ae96-9bfda9dc3f61)
+
+	
+ 
