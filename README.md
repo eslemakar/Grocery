@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Getting Started
+
+First, run the development server:
+
 cp .env.example .env.local
 # Public variables 
 NEXT_PUBLIC_API_URL=http://localhost:3000
@@ -7,12 +11,6 @@ NEXT_PUBLIC_API_URL=http://localhost:3000
 # Private variables (sadece server tarafında)
 DATABASE_URL=
 SECRET_KEY=
-
-
-
-## Getting Started
-
-First, run the development server:
 
 ```bash
 npm run dev
