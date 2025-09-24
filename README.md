@@ -29,7 +29,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-#GIF
+
 ![ezgif-73a819a11336bc](https://github.com/user-attachments/assets/ec22c099-e9d8-4bbc-bdca-bc9be59bfcbb)
 
 
