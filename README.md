@@ -3,10 +3,15 @@ This is a real grocery e-commerce application built with Next.js.
 Users can browse fresh products, view detailed information, add/remove items from the cart, and complete their purchases.
 # Features
 🥦 Product listing with images and prices
+
 🍎 Product details (name, description, price, quantity, organic/non-organic status)
+
 🛒 Add to cart / remove from cart
+
 🔄 Update item quantity in the cart
+
 💳 Checkout and purchase flow
+
 📱 Responsive design for mobile and desktop
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
