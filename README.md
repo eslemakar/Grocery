@@ -1,7 +1,7 @@
 # grocery application 🍎🍌🍇🍉🍊🍍🥭🍒🍓🍑🍐🥝🍋
 This is a real grocery e-commerce application built with Next.js.
 Users can browse fresh products, view detailed information, add/remove items from the cart, and complete their purchases.
-✨ Features
+#  Features
 🥦 Product listing with images and prices
 🍎 Product details (name, description, price, quantity, organic/non-organic status)
 🛒 Add to cart / remove from cart
